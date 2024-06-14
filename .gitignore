@@ -9,3 +9,10 @@ stress-test
 crash.log
 test/snapshot.txt
 npm
+.vs/
+test/fan
+test/fanotify.cpp
+test/fa
+test/watchdir
+test/fanotify.c
+package-lock.json
